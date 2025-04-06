@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Task-7/static/css/main.d3fccdc9.css",
-    "main.js": "/Task-7/static/js/main.4378d47e.js",
-    "index.html": "/Task-7/index.html",
-    "main.d3fccdc9.css.map": "/Task-7/static/css/main.d3fccdc9.css.map",
-    "main.4378d47e.js.map": "/Task-7/static/js/main.4378d47e.js.map"
+    "main.css": "//MariaJanet.github.io/Task-7/static/css/main.d3fccdc9.css",
+    "main.js": "//MariaJanet.github.io/Task-7/static/js/main.4378d47e.js",
+    "index.html": "//MariaJanet.github.io/Task-7/index.html",
+    "main.d3fccdc9.css.map": "//MariaJanet.github.io/Task-7/static/css/main.d3fccdc9.css.map",
+    "main.4378d47e.js.map": "//MariaJanet.github.io/Task-7/static/js/main.4378d47e.js.map"
   },
   "entrypoints": [
     "static/css/main.d3fccdc9.css",
