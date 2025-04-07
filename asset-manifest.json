@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//MariaJanet.github.io/Task-7/static/css/main.d3fccdc9.css",
-    "main.js": "//MariaJanet.github.io/Task-7/static/js/main.4378d47e.js",
-    "index.html": "//MariaJanet.github.io/Task-7/index.html",
-    "main.d3fccdc9.css.map": "//MariaJanet.github.io/Task-7/static/css/main.d3fccdc9.css.map",
-    "main.4378d47e.js.map": "//MariaJanet.github.io/Task-7/static/js/main.4378d47e.js.map"
+    "main.css": "/static/css/main.d3fccdc9.css",
+    "main.js": "/static/js/main.2b3813ed.js",
+    "index.html": "/index.html",
+    "main.d3fccdc9.css.map": "/static/css/main.d3fccdc9.css.map",
+    "main.2b3813ed.js.map": "/static/js/main.2b3813ed.js.map"
   },
   "entrypoints": [
     "static/css/main.d3fccdc9.css",
-    "static/js/main.4378d47e.js"
+    "static/js/main.2b3813ed.js"
   ]
 }
